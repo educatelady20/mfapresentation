@@ -1,1 +1,1 @@
-# mfapresentation
+As a Business Analyst, I led a cybersecurity awareness session focused on the importance of regular password changes and implementing multi-factor authentication (MFA). The session educated employees on best practices for creating strong passwords and highlighted real-world risks of password reuse and data breaches. I incorporated interactive elements such as quizzes and scenario-based discussions to reinforce learning. This initiative helped strengthen our organization's overall security posture and promote a culture of cyber hygiene.# mfapresentation
